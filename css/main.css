@@ -1,0 +1,46 @@
+.nav-item a:hover {
+    color: #0B5ED7 !important;
+    transition: 0.2s;
+}
+
+.button-1 {
+    border-radius: 8px 8px 0px 8px;
+}
+
+.button-1:hover {
+    background-color: #221D48;
+    border: none;
+    transition: 0.4s;
+}
+
+.button-2 {
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 8px 8px 0px 8px;
+}
+
+.button-2:hover {
+    background-color: #221D48;
+    color: white;
+    transition: 0.4s;
+}
+
+.randevu {
+    border-radius: 1rem 1rem 0px 1rem !important;
+
+}
+
+.randevu a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.randevu:hover {
+    background-color: #0D6EFD !important;
+    transition: 0.8s;
+    cursor: pointer;
+}
